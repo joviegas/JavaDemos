@@ -1,0 +1,242 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Compiled Object Files
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+
+# Compiled Static Libraries
+*.lib
+*.a
+
+# Compiled Java Files
+*.class
+
+# Java
+*.jar
+*.war
+*.ear
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+out/
+
+# VS Code
+
+# Eclipse
+.c9/
+.apt_generated/
+.settings/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# JetBrains
+*.sublime-workspace
+*.sublime-project
+
+# C/C++
+*.d
+*.out
+*.bin
+*.elf
+*.hex
+
+# Windows C++
+*.ilk
+*.pdb
+*.pch
+*.res
+*.idb
+*.ipdb
+*.iobj
+
+# Rust
+*.rs.bk
+
+# Go
+bin/
+*.exe
+*.test
+
+# PHP
+vendor/
+
+# Laravel
+.env
+.env.*
+
+# Ruby
+*.gem
+log/
+tmp/
+.bundle/
+vendor/bundle/
+lib/assets/compiled/
+yarn-debug.log
+yarn-error.log
+
+# Swift
+*.xcodeproj/
+*.xcworkspace/
+*.swiftpm/
+.build/
+
+# Python Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+
+# Backup files
+
+# Minified
+*.min.js
+*.min.css
+
+# Distribution / Packaging
+*.packaged
+
+# Database
+*.sqlite
+*.db
+*.sql
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+
+# Audio
+*.mp3
+*.wav
+
+# Video
+*.mp4
+*.mov
+*.avi
+
+# PDF
+*.pdf
+
+# Maven Wrapper files
+.mvn/
+.wrapper/
+!/.mvn/wrapper/maven-wrapper.properties
+
+# System Files
+*.pid
+*.seed
+
+# Coverage Reports
+.coverage
+coverage/
+.coverage.*
+
+
+
+# Test output
+test-output/
+
